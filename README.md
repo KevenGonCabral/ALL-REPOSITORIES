@@ -19,7 +19,7 @@ This repository serves as a directory that helps you easily navigate through my 
 ## M <a id="m"></a>
 
 ## N <a id="n"></a>
-<a href="https://github.com/KevenGonCabral/Order-summary-responsive-html"> Ntf-responsive-card</a>
+<a href="https://github.com/KevenGonCabral/Ntf-responsive-card"> Ntf-responsive-card</a>
 <ol>🔷 a single block of NFT product made with HTML & CSS </ol>
 
 ## O <a id="o"></a>
@@ -27,18 +27,18 @@ This repository serves as a directory that helps you easily navigate through my 
 <ol>🔷 a single block of order summary made with HTML & CSS </ol>
 
 ## P <a id="p"></a>
-<a href="https://github.com/KevenGonCabral/Order-summary-responsive-html"> Price-card-html
+<a href="https://github.com/KevenGonCabral/Price-card-html"> Price-card-html
 </a>
 <ol> 🔷 a single block of a price card made with HTML & CSS </ol>
 
 ## Q <a id="q"></a>
-<a href="https://github.com/KevenGonCabral/Order-summary-responsive-html"> Qr-code-screen-html</a>
+<a href="https://github.com/KevenGonCabral/Qr-code-screen-html"> Qr-code-screen-html</a>
 <ol>🔷  a single block with a Qr code made with HTML & CSS</ol>
 
 ## R <a id="r"></a>
 
 ## S <a id="s"></a>
-<a href="https://github.com/KevenGonCabral/Order-summary-responsive-html"> Sing-up-hackweek-html</a>
+<a href="https://github.com/KevenGonCabral/Sing-up-hackweek-html"> Sing-up-hackweek-html</a>
 <ol>🔷 a personal landing page project made with HTML & CSS </ol>
 
 ## T <a id="t"></a>
