@@ -11,7 +11,12 @@ This repository serves as a directory that helps you easily navigate through my 
 ## C <a id="c"></a>
 ## D <a id="d"></a>
 ## E <a id="e"></a>
+
 ## F <a id="f"></a>
+<a href="https://github.com/KevenGonCabral/Four-card-feature-section-html"> Four-card-feature-section-html</a>
+<ol>🔷 a feature section with four blocks using flexbox made with HTML & CSS </ol>
+
+
 ## G <a id="g"></a>
 ## H <a id="h"></a>
 ## I <a id="i"></a>
@@ -25,7 +30,7 @@ This repository serves as a directory that helps you easily navigate through my 
 <ol>🔷 a single block of NFT product made with HTML & CSS </ol>
 
 ## O <a id="o"></a>
-<a href="https://github.com/KevenGonCabral/Order-summary-responsive-html"> Order summary responsive html</a>
+<a href="https://github.com/KevenGonCabral/Order-summary-responsive-html"> Order-summary-responsive-html</a>
 <ol>🔷 a single block of order summary made with HTML & CSS </ol>
 
 ## P <a id="p"></a>
