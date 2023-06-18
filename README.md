@@ -14,7 +14,7 @@ This repository serves as a directory that helps you easily navigate through my 
 
 ## F <a id="f"></a>
 <a href="https://github.com/KevenGonCabral/Four-card-feature-section-html"> Four-card-feature-section-html</a>
-<ol>🔷 a feature section with four blocks using flexbox made with HTML & CSS </ol>
+<ol>🧾 a feature section with four blocks using flexbox made with HTML & CSS </ol>
 
 
 ## G <a id="g"></a>
@@ -27,26 +27,32 @@ This repository serves as a directory that helps you easily navigate through my 
 
 ## N <a id="n"></a>
 <a href="https://github.com/KevenGonCabral/Ntf-responsive-card"> Ntf-responsive-card</a>
-<ol>🔷 a single block of NFT product made with HTML & CSS </ol>
+<ol> 🧾 a single block of NFT product made with HTML & CSS </ol>
 
 ## O <a id="o"></a>
 <a href="https://github.com/KevenGonCabral/Order-summary-responsive-html"> Order-summary-responsive-html</a>
-<ol>🔷 a single block of order summary made with HTML & CSS </ol>
+<ol> 🧾 a single block of order summary made with HTML & CSS </ol>
 
 ## P <a id="p"></a>
 <a href="https://github.com/KevenGonCabral/Price-card-html"> Price-card-html
 </a>
-<ol> 🔷 a single block of a price card made with HTML & CSS </ol>
+<ol> 🧾 a single block of a price card made with HTML & CSS </ol>
+
+<a href="https://github.com/KevenGonCabral/Profile-card-html"> Profile-card-html
+</a>
+<ol> 🧾 a single block of a profile card made with HTML & CSS </ol>
+
+
 
 ## Q <a id="q"></a>
 <a href="https://github.com/KevenGonCabral/Qr-code-screen-html"> Qr-code-screen-html</a>
-<ol>🔷  a single block with a Qr code made with HTML & CSS</ol>
+<ol> 🧾  a single block with a Qr code made with HTML & CSS</ol>
 
 ## R <a id="r"></a>
 
 ## S <a id="s"></a>
 <a href="https://github.com/KevenGonCabral/Sing-up-hackweek-html"> Sing-up-hackweek-html</a>
-<ol>🔷 a personal landing page project made with HTML & CSS </ol>
+<ol> 🧾 a personal landing page project made with HTML & CSS </ol>
 
 ## T <a id="t"></a>
 ## U <a id="u"></a>
