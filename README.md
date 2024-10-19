@@ -32,13 +32,13 @@ This repository serves as a directory that helps you easily navigate through my 
 # front-end
 <ol>⚙ layouts/ web pages HTML & CSS<ol>
 
-<a href="https://github.com/KevenGonCabral/Sing-up-hackweek-html"> Sing-up-hackweek-html</a><ol>📄</ol>
-<a href="https://github.com/KevenGonCabral/Qr-code-screen-html"> Qr-code-screen-html</a><ol>📄</ol>
-<a href="https://github.com/KevenGonCabral/Profile-card-html"> Profile-card-html</a><ol>📄</ol>
-<a href="https://github.com/KevenGonCabral/Four-card-feature-section-html"> Four-card-feature-section-html</a><ol>📄</ol>
-<a href="https://github.com/KevenGonCabral/Price-card-html"> Price-card-html</a><ol>📄</ol>
-<a href="https://github.com/KevenGonCabral/Order-summary-responsive-html"> Order-summary-responsive-html</a><ol>📄</ol>
-<a href="https://github.com/KevenGonCabral/Ntf-responsive-card"> Ntf-responsive-card</a><ol>📄</ol>
+<a href="https://github.com/KevenGonCabral/Sing-up-hackweek-html"> Sing-up-hackweek-html 📄</a>
+<a href="https://github.com/KevenGonCabral/Qr-code-screen-html"> Qr-code-screen-html 📄</a>
+<a href="https://github.com/KevenGonCabral/Profile-card-html"> Profile-card-html 📄</a>
+<a href="https://github.com/KevenGonCabral/Four-card-feature-section-html"> Four-card-feature-section-html 📄</a>
+<a href="https://github.com/KevenGonCabral/Price-card-html"> Price-card-html 📄</a>
+<a href="https://github.com/KevenGonCabral/Order-summary-responsive-html"> Order-summary-responsive-html 📄</a>
+<a href="https://github.com/KevenGonCabral/Ntf-responsive-card"> Ntf-responsive-card 📄</a>
 
 ## X <a id="x"></a>
 ## Y <a id="y"></a>
