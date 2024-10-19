@@ -12,8 +12,8 @@ This repository serves as a directory that helps you easily navigate through my 
 ## D <a id="d"></a>
 ## E <a id="e"></a>
 ## F <a id="f"></a>
-# front-end
-<ol>⚙ layouts/ web pages HTML & CSS<ol>
+### front-end
+🛠 layouts/ web pages HTML & CSS
 
 <a href="https://github.com/KevenGonCabral/Sing-up-hackweek-html"> Sing-up-hackweek-html 📄<br></a>
 <a href="https://github.com/KevenGonCabral/Qr-code-screen-html"> Qr-code-screen-html 📄<br></a>
